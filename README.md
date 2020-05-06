@@ -6,8 +6,8 @@ Finding valuable resources to really prepare for the LFCS exam is a difficult ta
 
 ## Exercices
 + Part 1 : [Essential commands](/Essential_Commands.md)
-+ Part 2 : [Operation of Running Systems](https://github.com/Brice123456789/LFCS_training/blob/master/Essential_Commands.md)
-+ Part 3 : [User and Group Management](https://github.com/Brice123456789/LFCS_training/blob/master/Essential_Commands.md)
-+ Part 4 : [Networking](https://github.com/Brice123456789/LFCS_training/blob/master/Essential_Commands.md)
-+ Part 5 : [Service Configuration](https://github.com/Brice123456789/LFCS_training/blob/master/Essential_Commands.md)
-+ Part 6 : [Storage Management](https://github.com/Brice123456789/LFCS_training/blob/master/Essential_Commands.md)
++ Part 2 : [Operation of Running Systems](/Operation_of_Running_Systems.md)
++ Part 3 : [User and Group Management](/User_and_Group_Management.md)
++ Part 4 : [Networking](/Networking.md)
++ Part 5 : [Service Configuration](/Service_Configuration.md)
++ Part 6 : [Storage Management](/Storage_Management.md)
